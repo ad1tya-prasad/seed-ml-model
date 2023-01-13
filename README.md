@@ -1,4 +1,4 @@
-# seed-ml-model
+# Kernel Seed Machine Learning Model
 
 # TO USE 
 
